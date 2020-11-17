@@ -1,1 +1,33 @@
-body{background: #d3e9ee;}
+body{
+  background: #d3e9ee;
+}
+.cloud1{
+  text-align: right;
+}
+.cloud2{
+  text-align: left;
+}
+.top_container{
+  font-family: 'Handlee', cursive;
+  background-color: #d3e9ee;
+  text-align: center;
+  padd
+}
+.middle_container{
+  font-family: 'Handlee', cursive;
+  background-color: #fcd285;
+  border: solid 20px;
+  padding: 20px;
+  margin-left: 260px;
+  width: 200px;
+  height: 200px;
+}
+.bottom_container{
+  font-family: 'Roboto', sans-serif;
+  background-color: #eba882;
+  border: solid 10px;
+  padding: 20px;
+  margin-left: 540px;
+  width: 200px;
+  height: 200px;
+}
