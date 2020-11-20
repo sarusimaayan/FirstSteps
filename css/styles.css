@@ -1,17 +1,29 @@
 body{
   background: #d3e9ee;
+  margin: 0;
+  text-align: center;
 }
-.cloud1{
-  text-align: right;
-}
-.cloud2{
-  text-align: left;
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Handlee', cursive;
 }
 .top_container{
-  font-family: 'Handlee', cursive;
-  background-color: #d3e9ee;
-  text-align: center;
-  padd
+  padding-top: 10%;
+  margin: 0 auto;
+  position: relative;
+}
+.cloud1{
+  position: absolute;
+  right: 10%;
+  top: 0;
+}
+.cloud2{
+  position: absolute;
+  left: 10%;
+}
+.island{
+  padding-top: 5%;
 }
 .middle_container{
   font-family: 'Handlee', cursive;
