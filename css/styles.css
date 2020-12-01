@@ -7,6 +7,29 @@ h1{
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'Handlee', cursive;
+  color: #4f4f69;
+}
+h2{
+  font-family: 'Handlee', cursive;
+  color: #4f4f69;
+}
+h3{
+  font-family: 'Handlee', cursive;
+  color: #4f4f69;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+a{
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 .top_container{
   padding-top: 10%;
@@ -26,20 +49,17 @@ h1{
   padding-top: 5%;
 }
 .middle_container{
-  font-family: 'Handlee', cursive;
-  background-color: #fcd285;
-  border: solid 20px;
-  padding: 20px;
-  margin-left: 260px;
-  width: 200px;
-  height: 200px;
+  /* font-family: 'Handlee', cursive; */
+
+}
+.element{
+  padding-bottom: 20px;
+}
+.skill-row{
+  /* margin-top: 5px */
 }
 .bottom_container{
   font-family: 'Roboto', sans-serif;
-  background-color: #eba882;
-  border: solid 10px;
-  padding: 20px;
-  margin-left: 540px;
-  width: 200px;
-  height: 200px;
+  font-size: 50%;
+
 }
