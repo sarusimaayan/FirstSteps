@@ -59,6 +59,7 @@ a{
 .bottom_container{
   font-family: 'Roboto', sans-serif;
   font-size: 50%;
+  background-color: #66bfbf;
 }
 
 .btn-email {
